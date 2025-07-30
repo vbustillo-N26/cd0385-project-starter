@@ -147,6 +147,7 @@ submissions/
 
 # AutoGluon specific
 AutogluonModels/
+autogluon_models
 .autogluon/
 
 # CatBoost specific
